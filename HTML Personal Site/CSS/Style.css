@@ -1,0 +1,18 @@
+
+body {
+  background-color: #bae8e8;
+  color:#393e46;
+}
+img {border-radius:100%}
+hr {
+border-style:none;
+border-top-style: dotted;
+border-width:7px;
+border-color: #c0c0c0;
+  width: 7%
+}
+h1{ color:#29a19c;
+}
+h3 {color: #29a19c;}
+
+/* This is how to leave notes in CSS that is not code */
